@@ -82,5 +82,6 @@ Investigation: Large Language Models (LLMs) can summarize documents and logs, sa
 How We Secure AI
 We must secure AI systems themselves to reap the benefits. This involves using MFA and RBAC to protect models, encrypting sensitive training data, and continuously monitoring models for signs of attack.
 
-
-
+## Practical
+What's the flag?
+--> 
