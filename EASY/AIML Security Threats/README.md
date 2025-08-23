@@ -83,5 +83,17 @@ How We Secure AI
 We must secure AI systems themselves to reap the benefits. This involves using MFA and RBAC to protect models, encrypting sensitive training data, and continuously monitoring models for signs of attack.
 
 ## Practical
+visit http://10-201-127-206.reverse-proxy-us-east-1.tryhackme.com
+check for these values:
+DoH port , SYN flood timeout and ephemeral port range size? 
+therefor DoH port = 443
+SYN flood timeout = 60
+ephemeral port range size = 16384
+
 What's the flag?
---> 
+--> thm{443/60/16384}
+
+## Conclusion
+
+ALL DONE!
+--> no answer needed.
