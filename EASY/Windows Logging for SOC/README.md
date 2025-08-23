@@ -51,17 +51,20 @@ Details: Information about the changes made (e.g., new attributes, group name).
 Real-World Usage: User manipulation events are common in real-world attacks, such as ransomware groups resetting passwords or attackers creating new admin accounts for persistence.
 
 <img width="782" height="548" alt="image" src="https://github.com/user-attachments/assets/02edad24-4b5a-4824-814f-9cf527336005" />
+
 Q. Continue with the "Practice-Security.evtx" file on the VM's Desktop.
 Which user was created by the attacker soon after the RDP login?
 --> svc_sysrestore
 
 <img width="779" height="540" alt="image" src="https://github.com/user-attachments/assets/e5eae225-559d-4049-8b5b-0baf9bd8847a" />
 <img width="783" height="538" alt="image" src="https://github.com/user-attachments/assets/defd592d-10dd-4b8a-a21e-58a0bab8e661" />
+
 Q. Which two privileged groups was the backdoor user added to?
 (Answer in alphabetical order, e.g. "Administrators, Power Users")
 --> Backup Operators, Remote Desktop Users
 
 <img width="779" height="542" alt="image" src="https://github.com/user-attachments/assets/dfb6acfc-4452-45c0-8d51-da7028d2f6ea" />
+
 Q. Does the Logon ID field match what you saw in the previous task (Yea/Nay)?
 --> Yea
 
